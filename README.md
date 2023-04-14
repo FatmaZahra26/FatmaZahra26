@@ -8,7 +8,7 @@
 </h1>
 
 <h5 align="center">
-My name is Fatma Zahra Zakhama and I'm an Big Data & AI Student. I'm from Tunisia , living in Tunis.
+My name is Fatma Zahra Zakhama and I'm an Big Data & AI Student. I'm from Tunisia .
 I'm passionate about Machine Learning , AI ,Data Science.
 
 ## What am I up to?
